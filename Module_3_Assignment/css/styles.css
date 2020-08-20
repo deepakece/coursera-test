@@ -1,0 +1,28 @@
+body {
+  color: #000000;
+  background-color: white;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+#header-nav {
+  background-color: #e6e6e6;
+  border-radius: 0;
+  border-color: #000000;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#black{
+  margin-top: 0px;
+  color: #000000;
+  font-size: 150%;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000000;
+}
+.dish{
+  color: #000000;
+  background-color: #e6e6e6;
+  padding: 1px 25px 10px 25px;
+  margin : 15px;
+  text-align:justify;
+}
